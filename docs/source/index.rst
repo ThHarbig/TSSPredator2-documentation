@@ -1,4 +1,4 @@
-Welcome to Theresa's documentation!
+Welcome to Theresa Harbigs documentation!
 ===================================
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
